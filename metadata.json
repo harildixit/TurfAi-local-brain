@@ -1,0 +1,7 @@
+{
+  "name": "TurfAI: Horse Racing Analytics",
+  "description": "An advanced AI-powered horse racing predictor that analyzes live odds, track conditions, jockey stats, and internet sentiment to provide accurate race predictions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
